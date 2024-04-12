@@ -1,7 +1,7 @@
 # Personality Profiling
 
 ## Description
-This repository contains the Python script "Assignment_1_Final_Code.py", which is the result of converting the "Assignment 1 Final Code.ipynb" Jupyter Notebook. The script includes data manipulation, analysis, and visualization steps tailored for a specific dataset.
+This repository contains the Python script "Assignment_1_Final_Code.py". The script includes data manipulation, analysis, and visualization steps tailored for a specific dataset.
 
 ## How to Run
 To run this script, you will need Python installed on your system. Clone this repository, navigate to the cloned directory, and execute the script using Python. Ensure that you have all the required dependencies installed.
